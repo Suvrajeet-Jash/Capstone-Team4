@@ -1,0 +1,301 @@
+claim_id,delivery_id,reason,amount_claimed,claim_status,claim_date,resolved_date,shipment_id,carrier,status,delivery_duration_days,damage_flag,proof_of_delivery_status,origin_warehouse,destination_city,ship_date,delivery_date,product_id,quantity,freight_cost,delay_days,claim_aging_days
+C00001,D00038,Damage,338.78,Rejected,2025-06-03,2025-06-19,S00039,"Burns, Lopez and Jones",Lost,10,0,Pending,W009,East Scottchester,2025-08-01,2025-08-11,P0038,125,329.43,10,16
+C00002,D00621,Incorrect Delivery,566.76,Rejected,2025-08-30,2025-09-18,S00622,"Knapp, Miller and Reyes",Delivered,10,0,Pending,W007,Bradleymouth,2025-06-24,2025-07-04,P0056,69,150.6,10,19
+C00003,D00448,Lost Package,715.24,Rejected,2025-08-17,2025-08-29,S00449,Smith and Sons,Lost,8,1,Signed,W006,Michaelmouth,2025-06-05,2025-06-13,P0027,112,132.91,8,12
+C00004,D00683,Lost Package,266.19,Rejected,2025-05-02,2025-05-20,S00684,Cameron PLC,Lost,8,1,Pending,W002,West Amy,2025-07-19,2025-07-27,P0029,106,478.3,8,18
+C00005,D00403,Damage,818.82,Pending,2025-06-17,2025-06-24,S00404,"Brown, Compton and Lee",Delivered,5,0,Signed,W005,Ericton,2025-08-02,2025-08-07,P0030,136,485.28,5,7
+C00006,D00017,Lost Package,980.19,Pending,2025-04-25,2025-05-08,S00018,Grimes and Sons,Delayed,4,0,Signed,W004,Sheppardfort,2025-06-30,2025-07-04,P0074,11,238.0,4,13
+C00007,D00660,Damage,833.21,Rejected,2025-09-01,2025-09-12,S00661,Lewis LLC,Delivered,9,1,Signed,W009,Lake Veronicatown,2025-05-05,2025-05-14,P0009,142,426.71,9,11
+C00008,D00112,Incorrect Delivery,159.77,Pending,2025-05-23,2025-05-30,S00113,Stevenson-Murphy,Delayed,5,1,Pending,W009,Stevenville,2025-04-13,2025-04-18,P0065,155,80.75,5,7
+C00009,D00892,Damage,120.56,Pending,2025-08-29,2025-09-17,S00893,"Sanchez, Orozco and Flores",In Transit,2,0,Missing,W010,Lake Saraburgh,2025-03-23,2025-03-25,P0086,84,433.27,2,19
+C00010,D00171,Lost Package,697.61,Pending,2025-04-24,2025-05-04,S00172,Bird-Savage,Delayed,6,1,Pending,W008,Lake Deborah,2025-05-25,2025-05-31,P0082,146,414.02,6,10
+C00011,D00203,Incorrect Delivery,349.47,Rejected,2025-06-12,2025-06-29,S00204,"Allen, Lewis and Mullins",Delayed,7,0,Missing,W009,Hayesfurt,2025-06-03,2025-06-10,P0059,187,62.31,7,17
+C00012,D00197,Damage,650.87,Pending,2025-05-10,2025-05-11,S00198,Navarro LLC,Delivered,2,1,Signed,W007,Lake Cameronborough,2025-07-22,2025-07-24,P0051,75,185.4,2,1
+C00013,D00590,Incorrect Delivery,992.96,Pending,2025-07-17,2025-07-24,S00591,Ellis LLC,Delivered,4,0,Missing,W006,East Jenny,2025-06-08,2025-06-12,P0091,44,139.11,4,7
+C00014,D00703,Incorrect Delivery,183.64,Pending,2025-06-14,2025-06-19,S00704,Smith and Sons,Delivered,4,1,Signed,W008,Adamsmouth,2025-05-25,2025-05-29,P0087,144,456.71,4,5
+C00015,D00407,Damage,669.96,Rejected,2025-06-02,2025-06-07,S00408,"Nelson, White and Moore",Lost,4,0,Missing,W010,Port Joshua,2025-04-03,2025-04-07,P0009,160,107.71,4,5
+C00016,D00118,Delay,241.66,Rejected,2025-07-07,2025-07-22,S00119,Franklin Group,Delayed,8,0,Signed,W004,Rossmouth,2025-05-02,2025-05-10,P0015,90,105.63,8,15
+C00017,D00419,Incorrect Delivery,777.39,Pending,2025-08-10,2025-08-12,S00420,"Phillips, Galloway and Garrett",Delayed,9,1,Signed,W001,Mariomouth,2025-05-03,2025-05-12,P0056,16,316.64,9,2
+C00018,D00117,Damage,204.34,Approved,2025-08-30,2025-09-12,S00118,"Mcneil, Solis and Horton",In Transit,7,1,Signed,W003,West Lisaburgh,2025-04-02,2025-04-09,P0049,118,146.42,7,13
+C00019,D00107,Delay,921.96,Pending,2025-07-18,2025-07-22,S00108,Parker Ltd,Lost,2,0,Pending,W009,North Amy,2025-04-20,2025-04-22,P0061,40,458.84,2,4
+C00020,D00632,Damage,501.84,Rejected,2025-08-18,2025-08-29,S00633,Myers Group,Delivered,6,1,Pending,W002,Veronicashire,2025-03-12,2025-03-18,P0091,156,265.23,6,11
+C00021,D00677,Incorrect Delivery,939.16,Pending,2025-09-07,2025-09-27,S00678,"Williams, Newman and Jones",Delivered,5,1,Missing,W005,Suzanneton,2025-03-29,2025-04-03,P0092,105,303.64,5,20
+C00022,D00764,Delay,133.32,Rejected,2025-04-24,2025-05-01,S00765,Torres-Jordan,In Transit,4,0,Pending,W005,Fitzgeraldbury,2025-04-28,2025-05-02,P0035,23,339.09,4,7
+C00023,D00441,Incorrect Delivery,403.58,Rejected,2025-08-25,2025-08-26,S00442,Daniels LLC,Delivered,2,0,Pending,W009,Parkchester,2025-03-31,2025-04-02,P0055,98,137.93,2,1
+C00024,D00676,Delay,509.81,Rejected,2025-08-21,2025-08-31,S00677,Johnson-Ferguson,Lost,4,1,Pending,W007,Saramouth,2025-05-24,2025-05-28,P0069,62,81.75,4,10
+C00025,D00795,Damage,234.67,Approved,2025-06-10,2025-06-16,S00796,Taylor-Jacobson,Delayed,10,1,Pending,W007,West Daniel,2025-04-08,2025-04-18,P0043,163,131.61,10,6
+C00026,D00102,Damage,356.01,Rejected,2025-04-17,2025-04-30,S00103,"Stewart, York and Olson",Lost,4,0,Pending,W006,Cindyberg,2025-05-31,2025-06-04,P0091,87,62.94,4,13
+C00027,D00640,Delay,929.74,Pending,2025-07-03,2025-07-22,S00641,"Smith, Boyd and Scott",Lost,8,1,Missing,W009,Mooreberg,2025-04-06,2025-04-14,P0013,43,195.54,8,19
+C00028,D00680,Lost Package,983.79,Pending,2025-04-29,2025-05-19,S00681,Hawkins LLC,Delivered,3,0,Pending,W005,Destinyfurt,2025-06-08,2025-06-11,P0069,38,357.79,3,20
+C00029,D00293,Incorrect Delivery,215.93,Rejected,2025-08-24,2025-08-31,S00294,Johnson-Munoz,Delayed,5,1,Signed,W005,South Krista,2025-04-11,2025-04-16,P0061,98,247.15,5,7
+C00030,D00717,Lost Package,995.11,Approved,2025-07-20,2025-08-02,S00718,"Jordan, Cook and Alexander",Delivered,10,1,Missing,W003,West Brianton,2025-05-28,2025-06-07,P0035,37,495.22,10,13
+C00031,D00859,Damage,829.42,Rejected,2025-06-10,2025-06-11,S00860,"Ruiz, Lowery and Baker",Lost,9,0,Missing,W006,Port Jacob,2025-06-27,2025-07-06,P0060,174,290.8,9,1
+C00032,D00824,Delay,744.11,Rejected,2025-05-16,2025-06-05,S00825,Bennett-Ruiz,Lost,5,0,Pending,W003,Jamesland,2025-06-23,2025-06-28,P0052,168,75.2,5,20
+C00033,D00353,Delay,801.3,Rejected,2025-07-27,2025-08-12,S00354,"Gonzalez, Lopez and Williams",Lost,6,1,Signed,W005,Port Justin,2025-05-13,2025-05-19,P0028,56,418.61,6,16
+C00034,D00843,Damage,798.73,Pending,2025-08-16,2025-08-31,S00844,Miller Inc,Delayed,7,0,Missing,W003,North David,2025-05-03,2025-05-10,P0038,102,330.56,7,15
+C00035,D00121,Delay,347.92,Approved,2025-08-09,2025-08-21,S00122,"Braun, Mays and Martinez",Delayed,3,1,Signed,W008,Port Erikchester,2025-07-03,2025-07-06,P0050,82,255.63,3,12
+C00036,D00562,Lost Package,585.68,Approved,2025-04-16,2025-04-26,S00563,Parrish Ltd,Delivered,9,0,Signed,W005,Sarashire,2025-06-15,2025-06-24,P0082,61,172.34,9,10
+C00037,D00780,Delay,290.81,Pending,2025-08-11,2025-08-20,S00781,Gomez-Owens,Lost,3,0,Signed,W007,Jillton,2025-06-18,2025-06-21,P0093,144,111.78,3,9
+C00038,D00964,Damage,899.29,Pending,2025-08-09,2025-08-10,S00965,Yoder Group,In Transit,6,1,Pending,W008,Lake Samanthabury,2025-04-29,2025-05-05,P0042,197,267.22,6,1
+C00039,D00144,Incorrect Delivery,937.17,Approved,2025-04-11,2025-04-15,S00145,Cruz PLC,Delayed,9,1,Signed,W007,Amystad,2025-07-25,2025-08-03,P0098,38,305.98,9,4
+C00040,D00370,Delay,531.38,Rejected,2025-05-27,2025-06-12,S00371,Gonzalez-Mccarthy,In Transit,3,1,Missing,W005,North Austin,2025-05-19,2025-05-22,P0015,35,293.8,3,16
+C00041,D00284,Damage,249.72,Rejected,2025-05-06,2025-05-08,S00285,Pierce LLC,Delivered,9,0,Signed,W008,Penamouth,2025-05-29,2025-06-07,P0003,125,313.35,9,2
+C00042,D00453,Damage,488.1,Rejected,2025-08-01,2025-08-02,S00454,Vasquez Inc,In Transit,10,1,Signed,W006,North Benjamin,2025-05-19,2025-05-29,P0032,55,138.19,10,1
+C00043,D00422,Delay,216.99,Approved,2025-06-22,2025-07-09,S00423,"Sandoval, Parrish and Crosby",Delivered,9,0,Signed,W002,Smithhaven,2025-05-23,2025-06-01,P0098,34,331.41,9,17
+C00044,D00665,Damage,408.15,Approved,2025-05-22,2025-05-28,S00666,Guzman-Rose,Delivered,2,1,Missing,W005,Woodburgh,2025-04-30,2025-05-02,P0011,41,277.77,2,6
+C00045,D00847,Damage,299.65,Rejected,2025-08-18,2025-08-28,S00848,Lopez-Blair,Lost,10,1,Missing,W005,West Williamshire,2025-03-14,2025-03-24,P0012,137,92.35,10,10
+C00046,D00033,Delay,152.78,Pending,2025-05-17,2025-06-06,S00034,Brown-Hughes,Delivered,7,1,Pending,W003,North Julie,2025-05-02,2025-05-09,P0031,148,101.1,7,20
+C00047,D00371,Incorrect Delivery,960.93,Rejected,2025-05-31,2025-06-15,S00372,Haynes PLC,Delayed,4,1,Pending,W005,Michellemouth,2025-06-23,2025-06-27,P0024,75,395.74,4,15
+C00048,D00377,Incorrect Delivery,903.74,Approved,2025-07-10,2025-07-30,S00378,Graves-Baird,In Transit,3,1,Signed,W007,West Alex,2025-06-20,2025-06-23,P0035,25,193.25,3,20
+C00049,D00066,Lost Package,498.53,Rejected,2025-05-09,2025-05-21,S00067,"Brady, James and Reese",Lost,10,1,Pending,W002,West Jessica,2025-04-23,2025-05-03,P0058,183,352.2,10,12
+C00050,D00380,Lost Package,482.65,Pending,2025-07-13,2025-07-21,S00381,Torres LLC,Delayed,5,1,Missing,W002,Port Russellport,2025-07-04,2025-07-09,P0098,152,343.2,5,8
+C00051,D00257,Incorrect Delivery,857.42,Pending,2025-05-16,2025-05-25,S00258,Wilson Inc,Delayed,10,0,Signed,W006,Carolynville,2025-07-17,2025-07-27,P0026,135,250.45,10,9
+C00052,D00472,Incorrect Delivery,102.46,Pending,2025-08-30,2025-09-17,S00473,Reyes PLC,In Transit,3,1,Missing,W003,South Anita,2025-06-13,2025-06-16,P0038,123,283.47,3,18
+C00053,D00060,Damage,817.53,Rejected,2025-07-15,2025-07-19,S00061,"Carter, Hendricks and Wolfe",Delivered,4,1,Pending,W005,Michelleview,2025-07-16,2025-07-20,P0073,196,458.1,4,4
+C00054,D00039,Delay,123.98,Rejected,2025-06-03,2025-06-17,S00040,Campbell-Hall,Delivered,5,0,Pending,W002,Malonestad,2025-03-21,2025-03-26,P0059,32,86.08,5,14
+C00055,D00567,Delay,190.34,Approved,2025-05-05,2025-05-14,S00568,"Orozco, White and Brown",Delayed,10,1,Missing,W003,Williamsstad,2025-06-27,2025-07-07,P0094,54,165.78,10,9
+C00056,D00781,Damage,540.09,Approved,2025-05-18,2025-06-04,S00782,Murray-Gaines,In Transit,3,0,Missing,W001,Pamelaville,2025-05-24,2025-05-27,P0049,108,59.32,3,17
+C00057,D00043,Damage,565.17,Rejected,2025-08-11,2025-08-23,S00044,"Barnes, Paul and Price",Delivered,4,0,Signed,W009,North Stephen,2025-05-19,2025-05-23,P0061,98,239.06,4,12
+C00058,D00458,Damage,233.32,Pending,2025-04-27,2025-05-01,S00459,Moreno-Greene,Delivered,3,1,Pending,W002,Petersenshire,2025-03-29,2025-04-01,P0019,43,407.7,3,4
+C00059,D00997,Lost Package,733.87,Approved,2025-07-19,2025-07-22,S00998,Phillips-Rodriguez,Delivered,6,0,Signed,W010,Millerfort,2025-04-05,2025-04-11,P0030,144,276.42,6,3
+C00060,D00200,Damage,467.73,Pending,2025-08-28,2025-09-05,S00201,Robles-Turner,In Transit,9,1,Pending,W008,North Stephen,2025-05-14,2025-05-23,P0095,115,466.92,9,8
+C00061,D00055,Incorrect Delivery,741.36,Approved,2025-09-02,2025-09-05,S00056,Perry and Sons,In Transit,4,0,Signed,W006,Rodneyfurt,2025-05-17,2025-05-21,P0048,124,292.94,4,3
+C00062,D00992,Damage,831.7,Approved,2025-05-21,2025-06-02,S00993,Davis PLC,In Transit,7,0,Missing,W003,South Melissa,2025-07-05,2025-07-12,P0059,46,483.01,7,12
+C00063,D00993,Lost Package,542.83,Pending,2025-04-10,2025-04-23,S00994,"Fischer, Johnson and Orr",Lost,8,1,Missing,W008,Port Justin,2025-07-20,2025-07-28,P0043,15,129.88,8,13
+C00064,D00179,Damage,733.66,Pending,2025-07-03,2025-07-04,S00180,Morrison-Hatfield,In Transit,4,0,Signed,W004,Lake Willie,2025-05-23,2025-05-27,P0035,44,63.11,4,1
+C00065,D00578,Incorrect Delivery,263.55,Rejected,2025-04-23,2025-05-10,S00579,Lin-Wilson,Delayed,2,1,Pending,W006,Laurenstad,2025-03-23,2025-03-25,P0090,180,340.4,2,17
+C00066,D00692,Lost Package,502.14,Rejected,2025-07-14,2025-07-28,S00693,Nelson-Jackson,In Transit,8,0,Signed,W004,Livingstonview,2025-08-07,2025-08-15,P0091,127,132.4,8,14
+C00067,D00610,Lost Package,546.56,Pending,2025-07-27,2025-07-31,S00611,Jensen Group,Delayed,8,1,Pending,W006,East Douglas,2025-07-08,2025-07-16,P0061,178,435.7,8,4
+C00068,D00574,Damage,400.39,Rejected,2025-08-06,2025-08-13,S00575,Miller Ltd,Delivered,8,0,Pending,W002,South Eric,2025-06-08,2025-06-16,P0073,51,137.4,8,7
+C00069,D00621,Incorrect Delivery,240.93,Approved,2025-05-20,2025-05-29,S00622,"Knapp, Miller and Reyes",Delivered,10,0,Pending,W007,Bradleymouth,2025-06-24,2025-07-04,P0056,69,150.6,10,9
+C00070,D00858,Incorrect Delivery,900.67,Approved,2025-08-25,2025-08-30,S00859,Gardner Inc,Lost,5,1,Pending,W002,North Jeffery,2025-06-16,2025-06-21,P0050,128,351.12,5,5
+C00071,D00080,Lost Package,626.63,Rejected,2025-05-14,2025-05-22,S00081,"Cain, Davidson and Moran",In Transit,9,1,Missing,W009,South Marvinburgh,2025-05-10,2025-05-19,P0029,16,406.05,9,8
+C00072,D00850,Delay,729.53,Approved,2025-04-17,2025-04-18,S00851,"Castaneda, Solis and Gonzales",Delayed,6,1,Missing,W008,North Joseph,2025-05-31,2025-06-06,P0061,75,393.42,6,1
+C00073,D00032,Damage,981.84,Approved,2025-06-30,2025-07-14,S00033,"Berry, Myers and James",Delivered,3,0,Pending,W009,Williamsmouth,2025-07-23,2025-07-26,P0072,191,398.11,3,14
+C00074,D00435,Damage,379.54,Approved,2025-08-21,2025-09-09,S00436,Ramsey and Sons,Lost,4,1,Signed,W008,Shortton,2025-07-08,2025-07-12,P0032,45,408.66,4,19
+C00075,D00025,Damage,815.59,Pending,2025-05-31,2025-06-15,S00026,Torres Ltd,Delayed,4,0,Pending,W007,Hawkinsside,2025-05-13,2025-05-17,P0048,170,258.93,4,15
+C00076,D00602,Incorrect Delivery,699.88,Pending,2025-08-07,2025-08-16,S00603,Odonnell-Newman,Delivered,7,0,Pending,W004,Williamstown,2025-06-10,2025-06-17,P0086,112,220.3,7,9
+C00077,D00038,Damage,774.12,Approved,2025-06-22,2025-07-11,S00039,"Burns, Lopez and Jones",Lost,10,0,Pending,W009,East Scottchester,2025-08-01,2025-08-11,P0038,125,329.43,10,19
+C00078,D00241,Damage,838.49,Rejected,2025-08-10,2025-08-19,S00242,Ellis-Martin,Delivered,4,1,Signed,W005,Port Tamara,2025-07-08,2025-07-12,P0022,140,420.16,4,9
+C00079,D00587,Damage,383.54,Rejected,2025-08-01,2025-08-04,S00588,"Fuentes, Martinez and Porter",Delayed,6,0,Missing,W007,Steinberg,2025-04-16,2025-04-22,P0001,53,417.38,6,3
+C00080,D00324,Delay,138.07,Rejected,2025-05-25,2025-06-14,S00325,"Jennings, Rhodes and Patel",In Transit,2,1,Signed,W006,East Jill,2025-05-01,2025-05-03,P0036,145,324.68,2,20
+C00081,D00513,Damage,827.05,Approved,2025-08-11,2025-08-31,S00514,Williams Inc,Delivered,8,1,Pending,W010,Catherinebury,2025-07-04,2025-07-12,P0059,108,459.87,8,20
+C00082,D00841,Incorrect Delivery,936.33,Approved,2025-06-16,2025-07-06,S00842,Perez-Harmon,In Transit,4,1,Missing,W003,Martinezport,2025-05-31,2025-06-04,P0065,142,496.53,4,20
+C00083,D00541,Incorrect Delivery,674.99,Rejected,2025-07-13,2025-07-16,S00542,Williams-Trevino,Delayed,2,0,Pending,W006,South Kylemouth,2025-05-06,2025-05-08,P0009,65,234.99,2,3
+C00084,D00203,Incorrect Delivery,631.29,Rejected,2025-07-22,2025-07-26,S00204,"Allen, Lewis and Mullins",Delayed,7,0,Missing,W009,Hayesfurt,2025-06-03,2025-06-10,P0059,187,62.31,7,4
+C00085,D00833,Incorrect Delivery,444.0,Rejected,2025-08-15,2025-08-25,S00834,"Stafford, Campos and Fisher",Delayed,2,0,Pending,W010,East Jaredfort,2025-06-21,2025-06-23,P0073,133,70.56,2,10
+C00086,D00104,Incorrect Delivery,917.27,Pending,2025-05-14,2025-05-19,S00105,Reyes-Davidson,Delivered,6,0,Signed,W004,Port Danielborough,2025-07-07,2025-07-13,P0017,63,108.6,6,5
+C00087,D00221,Incorrect Delivery,357.99,Pending,2025-06-07,2025-06-23,S00222,Meyer PLC,Lost,5,1,Pending,W008,West Emilyview,2025-03-30,2025-04-04,P0048,159,357.92,5,16
+C00088,D00491,Lost Package,323.42,Pending,2025-05-25,2025-06-05,S00492,Cannon Group,Delivered,2,0,Signed,W005,West Michellefurt,2025-04-24,2025-04-26,P0064,178,425.43,2,11
+C00089,D00447,Delay,289.84,Rejected,2025-06-05,2025-06-22,S00448,Hunt Group,Delivered,5,0,Pending,W004,New Amy,2025-05-22,2025-05-27,P0062,198,395.76,5,17
+C00090,D00685,Lost Package,624.58,Pending,2025-08-17,2025-09-06,S00686,Taylor LLC,In Transit,9,0,Missing,W010,Lake Seanbury,2025-07-29,2025-08-07,P0013,145,207.01,9,20
+C00091,D00456,Damage,160.3,Approved,2025-07-13,2025-07-19,S00457,Mclean-Gillespie,Lost,6,1,Missing,W004,New Ricardoborough,2025-07-31,2025-08-06,P0059,71,216.34,6,6
+C00092,D00904,Incorrect Delivery,863.31,Rejected,2025-07-14,2025-07-19,S00905,Wallace-Walker,Delivered,3,1,Pending,W009,West Ebony,2025-06-14,2025-06-17,P0081,157,402.93,3,5
+C00093,D00026,Delay,520.54,Rejected,2025-08-10,2025-08-25,S00027,Porter Ltd,Delayed,3,1,Missing,W001,Apriltown,2025-07-25,2025-07-28,P0050,186,199.81,3,15
+C00094,D00839,Delay,195.12,Approved,2025-06-25,2025-06-27,S00840,Zhang PLC,In Transit,6,0,Pending,W001,Troymouth,2025-04-23,2025-04-29,P0021,48,357.07,6,2
+C00095,D00861,Delay,694.68,Rejected,2025-08-04,2025-08-05,S00862,Gonzalez-Barron,Lost,8,1,Pending,W007,North Timothy,2025-05-10,2025-05-18,P0026,112,197.92,8,1
+C00096,D00645,Lost Package,185.57,Rejected,2025-06-18,2025-06-21,S00646,"Case, Adams and Olson",Lost,8,0,Signed,W003,Arnoldmouth,2025-05-24,2025-06-01,P0055,183,428.75,8,3
+C00097,D00240,Lost Package,715.91,Rejected,2025-07-24,2025-08-12,S00241,"Glenn, Brown and Michael",Delivered,3,0,Signed,W003,South Michaeltown,2025-07-17,2025-07-20,P0045,33,141.68,3,19
+C00098,D00525,Incorrect Delivery,910.75,Pending,2025-07-12,2025-07-15,S00526,Mack and Sons,In Transit,2,1,Signed,W003,New Danielmouth,2025-03-19,2025-03-21,P0078,35,129.76,2,3
+C00099,D00999,Incorrect Delivery,966.27,Rejected,2025-06-06,2025-06-24,S01000,Baker-Lin,Delivered,9,0,Signed,W006,Lake Patrick,2025-06-01,2025-06-10,P0063,198,207.85,9,18
+C00100,D00515,Lost Package,935.02,Rejected,2025-04-28,2025-04-29,S00516,Benjamin-Porter,Delayed,4,1,Pending,W004,Lake Kimberlyberg,2025-06-16,2025-06-20,P0036,170,291.98,4,1
+C00101,D00834,Damage,973.46,Approved,2025-05-22,2025-05-31,S00835,Brown LLC,Delivered,3,1,Missing,W006,Carlshire,2025-08-04,2025-08-07,P0040,12,491.24,3,9
+C00102,D00311,Delay,244.64,Pending,2025-05-01,2025-05-16,S00312,Bradley-Adams,Delivered,4,0,Signed,W002,West Gregoryhaven,2025-03-31,2025-04-04,P0083,103,200.57,4,15
+C00103,D00969,Lost Package,569.75,Rejected,2025-09-03,2025-09-11,S00970,"Jackson, Jones and Robertson",Delivered,7,0,Missing,W002,South Crystal,2025-08-06,2025-08-13,P0027,161,392.72,7,8
+C00104,D00584,Incorrect Delivery,975.27,Approved,2025-09-05,2025-09-20,S00585,"Gray, Bailey and Farley",Delivered,8,0,Signed,W009,Shannonport,2025-04-21,2025-04-29,P0076,88,380.27,8,15
+C00105,D00954,Damage,585.19,Pending,2025-06-04,2025-06-05,S00955,Hall-Edwards,Delayed,3,0,Missing,W008,New Elizabethshire,2025-08-08,2025-08-11,P0048,168,96.23,3,1
+C00106,D00265,Damage,476.91,Approved,2025-06-30,2025-07-16,S00266,"Roth, Logan and Moreno",Lost,5,1,Missing,W005,Lake Jessicaport,2025-03-27,2025-04-01,P0067,119,182.97,5,16
+C00107,D00682,Damage,845.93,Pending,2025-07-05,2025-07-12,S00683,"Riggs, Snyder and Davidson",Delayed,6,0,Signed,W006,New Matthew,2025-07-23,2025-07-29,P0019,67,173.14,6,7
+C00108,D00389,Damage,369.6,Approved,2025-06-12,2025-06-15,S00390,"Maxwell, Rice and Watson",In Transit,3,1,Pending,W010,Nelsonfort,2025-04-16,2025-04-19,P0039,32,227.89,3,3
+C00109,D00782,Damage,940.73,Rejected,2025-05-28,2025-06-13,S00783,Bernard Group,In Transit,2,1,Signed,W001,Steventon,2025-05-20,2025-05-22,P0017,73,396.55,2,16
+C00110,D00690,Lost Package,812.32,Rejected,2025-08-16,2025-08-30,S00691,Valentine Inc,Delivered,4,0,Missing,W003,North Heather,2025-04-29,2025-05-03,P0019,106,305.4,4,14
+C00111,D00573,Delay,517.02,Approved,2025-07-01,2025-07-20,S00574,Hoffman PLC,Delivered,3,0,Signed,W010,Hendrickston,2025-07-14,2025-07-17,P0053,19,496.61,3,19
+C00112,D00965,Incorrect Delivery,698.13,Pending,2025-05-02,2025-05-11,S00966,Jackson Group,Delayed,6,1,Signed,W002,Parkerstad,2025-07-22,2025-07-28,P0099,85,370.12,6,9
+C00113,D00044,Lost Package,306.4,Pending,2025-05-14,2025-05-23,S00045,Anderson and Sons,Delayed,6,1,Missing,W001,West Micheal,2025-06-09,2025-06-15,P0025,26,59.92,6,9
+C00114,D00926,Damage,811.1,Approved,2025-07-09,2025-07-13,S00927,"Edwards, Brown and White",In Transit,10,1,Missing,W006,Shawmouth,2025-04-12,2025-04-22,P0084,85,260.17,10,4
+C00115,D00363,Incorrect Delivery,139.62,Rejected,2025-06-10,2025-06-18,S00364,"Smith, Cohen and Williams",Lost,3,1,Signed,W009,Lake Johnathan,2025-08-02,2025-08-05,P0025,168,293.83,3,8
+C00116,D00181,Incorrect Delivery,355.71,Rejected,2025-08-16,2025-09-03,S00182,Munoz-Rogers,Lost,2,1,Signed,W008,New Meghan,2025-03-12,2025-03-14,P0008,31,191.26,2,18
+C00117,D00571,Delay,399.98,Approved,2025-05-02,2025-05-14,S00572,Sheppard Group,In Transit,7,0,Missing,W009,North Ginamouth,2025-05-26,2025-06-02,P0063,113,466.56,7,12
+C00118,D00109,Incorrect Delivery,622.93,Rejected,2025-06-16,2025-06-29,S00110,Taylor Group,Lost,3,0,Signed,W002,North Maryfort,2025-04-08,2025-04-11,P0078,62,314.42,3,13
+C00119,D00186,Lost Package,676.0,Rejected,2025-08-23,2025-09-06,S00187,Hardy-Barron,Lost,3,1,Signed,W004,East Abigail,2025-06-17,2025-06-20,P0099,90,198.18,3,14
+C00120,D00718,Lost Package,851.58,Approved,2025-06-26,2025-07-09,S00719,Davis-Wong,Lost,4,1,Missing,W008,East Lindsayhaven,2025-06-08,2025-06-12,P0018,100,386.19,4,13
+C00121,D00559,Delay,748.32,Rejected,2025-08-24,2025-09-07,S00560,Carroll-Huerta,Delivered,10,0,Missing,W010,New Jessicahaven,2025-03-28,2025-04-07,P0027,70,278.34,10,14
+C00122,D00026,Lost Package,507.75,Approved,2025-05-04,2025-05-09,S00027,Porter Ltd,Delayed,3,1,Missing,W001,Apriltown,2025-07-25,2025-07-28,P0050,186,199.81,3,5
+C00123,D00066,Incorrect Delivery,110.45,Rejected,2025-09-07,2025-09-18,S00067,"Brady, James and Reese",Lost,10,1,Pending,W002,West Jessica,2025-04-23,2025-05-03,P0058,183,352.2,10,11
+C00124,D00104,Incorrect Delivery,228.11,Approved,2025-07-12,2025-07-31,S00105,Reyes-Davidson,Delivered,6,0,Signed,W004,Port Danielborough,2025-07-07,2025-07-13,P0017,63,108.6,6,19
+C00125,D00778,Delay,842.97,Approved,2025-07-13,2025-07-22,S00779,Davis-Rose,Lost,4,0,Missing,W003,West Ronaldview,2025-07-24,2025-07-28,P0051,185,323.52,4,9
+C00126,D00555,Delay,100.31,Rejected,2025-08-04,2025-08-12,S00556,Peterson-Munoz,Delivered,10,0,Missing,W004,Wilkinschester,2025-06-25,2025-07-05,P0007,180,494.77,10,8
+C00127,D00272,Incorrect Delivery,579.43,Rejected,2025-06-29,2025-07-07,S00273,Delgado Inc,In Transit,6,1,Signed,W008,East Alexandrahaven,2025-07-21,2025-07-27,P0044,57,144.98,6,8
+C00128,D00628,Damage,892.3,Pending,2025-08-21,2025-08-30,S00629,"Camacho, Rodriguez and Ho",Delayed,8,0,Pending,W002,Port Dwayneberg,2025-06-06,2025-06-14,P0002,147,433.56,8,9
+C00129,D00404,Incorrect Delivery,236.2,Rejected,2025-05-25,2025-06-09,S00405,Simpson-Patel,Delayed,6,1,Signed,W001,West Timothyport,2025-04-18,2025-04-24,P0064,190,368.14,6,15
+C00130,D00616,Damage,482.42,Rejected,2025-04-15,2025-04-18,S00617,"Mueller, Cameron and Burton",Delivered,3,0,Signed,W002,South Lisaville,2025-05-13,2025-05-16,P0056,193,63.15,3,3
+C00131,D00091,Lost Package,166.47,Pending,2025-06-05,2025-06-24,S00092,Mcmillan-Martinez,Lost,10,0,Pending,W002,Ryanberg,2025-05-16,2025-05-26,P0025,170,132.46,10,19
+C00132,D00917,Delay,421.97,Rejected,2025-06-01,2025-06-07,S00918,Lutz PLC,Delivered,5,1,Pending,W002,Oscarchester,2025-05-17,2025-05-22,P0088,117,218.86,5,6
+C00133,D00840,Delay,743.26,Pending,2025-07-17,2025-07-25,S00841,"Gonzalez, King and Kim",Lost,3,0,Missing,W002,Port Aaronview,2025-05-08,2025-05-11,P0092,69,447.98,3,8
+C00134,D00218,Incorrect Delivery,747.74,Pending,2025-05-21,2025-06-01,S00219,"Mclaughlin, Collins and Lawrence",In Transit,5,0,Missing,W007,East Jeffrey,2025-04-29,2025-05-04,P0077,65,497.84,5,11
+C00135,D00191,Delay,139.41,Approved,2025-09-09,2025-09-20,S00192,Andersen LLC,Lost,7,0,Pending,W002,Seanbury,2025-03-18,2025-03-25,P0070,118,263.68,7,11
+C00136,D00569,Damage,460.55,Rejected,2025-06-28,2025-06-29,S00570,Gonzalez Group,Delivered,9,0,Pending,W010,Jonathanland,2025-05-09,2025-05-18,P0010,95,111.5,9,1
+C00137,D00931,Delay,424.28,Approved,2025-04-21,2025-05-01,S00932,"Stewart, Tran and Perez",Lost,8,1,Signed,W008,New Matthewland,2025-06-28,2025-07-06,P0058,118,318.35,8,10
+C00138,D00507,Delay,335.96,Rejected,2025-07-28,2025-08-01,S00508,Morrison-Bradford,Lost,6,0,Signed,W008,Lake Sarah,2025-04-10,2025-04-16,P0026,11,495.99,6,4
+C00139,D00439,Lost Package,685.26,Pending,2025-09-06,2025-09-16,S00440,Thomas-Burton,Lost,2,1,Pending,W006,New Colleen,2025-04-14,2025-04-16,P0067,160,345.95,2,10
+C00140,D00280,Damage,808.93,Approved,2025-06-11,2025-06-24,S00281,"Garcia, Weiss and Young",Delayed,5,1,Pending,W001,Andersonfort,2025-08-06,2025-08-11,P0062,176,115.32,5,13
+C00141,D00865,Damage,523.04,Rejected,2025-05-30,2025-06-15,S00866,"Strong, Warner and Cannon",Delayed,2,1,Missing,W010,West David,2025-04-05,2025-04-07,P0077,107,78.08,2,16
+C00142,D00918,Damage,795.16,Pending,2025-08-19,2025-08-28,S00919,Morgan-Foster,Delayed,9,0,Missing,W006,Robertton,2025-07-17,2025-07-26,P0021,56,184.44,9,9
+C00143,D00608,Damage,592.03,Rejected,2025-06-10,2025-06-11,S00609,"Greene, Rogers and Haley",Delivered,7,1,Pending,W001,Port Leahmouth,2025-03-29,2025-04-05,P0087,123,155.1,7,1
+C00144,D00887,Incorrect Delivery,515.55,Rejected,2025-06-28,2025-07-03,S00888,Anderson-Sanders,In Transit,4,1,Signed,W010,Perezchester,2025-05-06,2025-05-10,P0070,121,221.7,4,5
+C00145,D00099,Lost Package,171.66,Approved,2025-06-24,2025-07-08,S00100,King Inc,Lost,8,1,Missing,W002,Martinezview,2025-06-11,2025-06-19,P0059,29,102.45,8,14
+C00146,D00529,Damage,808.55,Approved,2025-07-04,2025-07-24,S00530,Williams-Marquez,In Transit,10,0,Pending,W001,Stevenchester,2025-05-07,2025-05-17,P0083,179,372.38,10,20
+C00147,D00189,Incorrect Delivery,663.93,Approved,2025-07-01,2025-07-19,S00190,Hayes-Parks,In Transit,9,1,Signed,W005,Markport,2025-04-22,2025-05-01,P0053,75,438.3,9,18
+C00148,D00432,Delay,728.99,Rejected,2025-06-26,2025-07-09,S00433,Roth Ltd,Delayed,3,1,Signed,W002,West Jeffreyland,2025-03-13,2025-03-16,P0002,162,370.98,3,13
+C00149,D00713,Incorrect Delivery,380.45,Rejected,2025-05-30,2025-06-12,S00714,"Rodriguez, Smith and Murray",Delayed,3,0,Signed,W001,Tommouth,2025-07-31,2025-08-03,P0056,135,138.89,3,13
+C00150,D00580,Lost Package,719.82,Pending,2025-04-20,2025-05-01,S00581,Harding-Mathews,In Transit,4,1,Missing,W010,Simsburgh,2025-06-29,2025-07-03,P0002,39,396.94,4,11
+C00151,D00348,Lost Package,981.01,Rejected,2025-06-01,2025-06-03,S00349,Ruiz LLC,In Transit,9,0,Signed,W008,South Coreyburgh,2025-03-22,2025-03-31,P0005,50,474.83,9,2
+C00152,D00113,Damage,652.33,Rejected,2025-07-13,2025-08-02,S00114,Stewart-Buchanan,Lost,2,0,Pending,W010,Port Kellymouth,2025-06-01,2025-06-03,P0068,65,372.12,2,20
+C00153,D00695,Delay,152.73,Rejected,2025-08-29,2025-09-14,S00696,"Barron, Church and Gutierrez",Delayed,6,0,Missing,W002,South Paulton,2025-04-30,2025-05-06,P0053,90,430.36,6,16
+C00154,D00369,Delay,727.29,Approved,2025-05-22,2025-05-24,S00370,Gamble-Wright,Delayed,8,0,Pending,W003,Scottberg,2025-04-05,2025-04-13,P0004,145,192.82,8,2
+C00155,D00359,Damage,163.35,Pending,2025-06-14,2025-06-28,S00360,Potter-Deleon,Delayed,3,1,Signed,W006,Deniseview,2025-07-06,2025-07-09,P0080,180,330.62,3,14
+C00156,D00699,Damage,304.36,Rejected,2025-08-11,2025-08-29,S00700,"Webb, Davis and Miranda",In Transit,9,1,Signed,W003,Robinsonville,2025-06-04,2025-06-13,P0064,141,358.3,9,18
+C00157,D00770,Incorrect Delivery,286.43,Approved,2025-04-18,2025-04-26,S00771,Cain Ltd,Lost,6,1,Signed,W003,Lake Jessicaborough,2025-04-05,2025-04-11,P0003,147,345.79,6,8
+C00158,D00420,Delay,190.01,Rejected,2025-06-08,2025-06-17,S00421,Holloway and Sons,In Transit,6,1,Missing,W006,North Amanda,2025-06-06,2025-06-12,P0032,37,263.11,6,9
+C00159,D00335,Lost Package,639.54,Approved,2025-07-05,2025-07-21,S00336,Decker Inc,In Transit,6,0,Pending,W008,North Emilyfurt,2025-07-01,2025-07-07,P0074,198,52.35,6,16
+C00160,D00007,Damage,122.3,Rejected,2025-06-28,2025-07-17,S00008,Garcia Inc,In Transit,8,0,Missing,W001,West Madisonfort,2025-04-18,2025-04-26,P0019,65,467.55,8,19
+C00161,D00308,Delay,368.84,Rejected,2025-05-22,2025-05-31,S00309,Woods-Anderson,Delayed,3,1,Missing,W010,Jessicaside,2025-07-02,2025-07-05,P0072,20,278.29,3,9
+C00162,D00183,Damage,363.99,Approved,2025-07-30,2025-08-12,S00184,Ortega-Gray,In Transit,8,1,Missing,W002,West Candice,2025-08-08,2025-08-16,P0093,45,156.22,8,13
+C00163,D00698,Lost Package,806.97,Rejected,2025-05-12,2025-05-30,S00699,Bray-Morris,Lost,2,1,Pending,W008,Rodriguezside,2025-08-07,2025-08-09,P0055,183,278.91,2,18
+C00164,D00628,Incorrect Delivery,488.21,Approved,2025-07-23,2025-07-25,S00629,"Camacho, Rodriguez and Ho",Delayed,8,0,Pending,W002,Port Dwayneberg,2025-06-06,2025-06-14,P0002,147,433.56,8,2
+C00165,D00334,Incorrect Delivery,335.92,Pending,2025-05-20,2025-05-30,S00335,Morgan Ltd,Lost,3,0,Pending,W006,Lake Aprilmouth,2025-07-22,2025-07-25,P0007,176,473.6,3,10
+C00166,D00322,Incorrect Delivery,878.66,Approved,2025-09-08,2025-09-23,S00323,Hayden Group,In Transit,6,1,Pending,W009,South Lee,2025-04-22,2025-04-28,P0054,112,448.6,6,15
+C00167,D00348,Damage,614.09,Approved,2025-08-09,2025-08-20,S00349,Ruiz LLC,In Transit,9,0,Signed,W008,South Coreyburgh,2025-03-22,2025-03-31,P0005,50,474.83,9,11
+C00168,D00987,Delay,273.06,Rejected,2025-05-01,2025-05-21,S00988,"Clark, Stone and Andrews",In Transit,9,1,Pending,W005,Williamsonview,2025-04-08,2025-04-17,P0027,53,403.58,9,20
+C00169,D00029,Incorrect Delivery,217.77,Approved,2025-08-07,2025-08-16,S00030,Nguyen-Johnson,Lost,7,1,Missing,W002,Natalieview,2025-05-24,2025-05-31,P0095,24,281.63,7,9
+C00170,D00818,Incorrect Delivery,888.3,Pending,2025-08-06,2025-08-12,S00819,"Foley, Gordon and Bailey",Delivered,9,0,Missing,W005,Port Annette,2025-06-04,2025-06-13,P0053,194,201.8,9,6
+C00171,D00788,Incorrect Delivery,402.86,Approved,2025-06-13,2025-06-15,S00789,Aguirre-Golden,Delivered,3,0,Missing,W009,Michaelview,2025-06-16,2025-06-19,P0003,21,96.27,3,2
+C00172,D00111,Incorrect Delivery,669.36,Rejected,2025-05-05,2025-05-25,S00112,"Johnson, Mclean and George",Lost,6,0,Missing,W003,South Vanessa,2025-05-07,2025-05-13,P0075,99,208.49,6,20
+C00173,D00355,Delay,932.82,Pending,2025-08-05,2025-08-19,S00356,Martin and Sons,Delivered,8,1,Signed,W001,Austinmouth,2025-07-11,2025-07-19,P0062,156,189.37,8,14
+C00174,D00164,Delay,206.57,Pending,2025-07-23,2025-08-02,S00165,Davis Ltd,Lost,3,1,Pending,W002,Aguilarchester,2025-07-19,2025-07-22,P0076,96,173.01,3,10
+C00175,D00185,Incorrect Delivery,485.36,Approved,2025-04-13,2025-04-29,S00186,Smith Ltd,Delivered,10,1,Signed,W010,Charlesmouth,2025-06-21,2025-07-01,P0033,137,448.05,10,16
+C00176,D00318,Incorrect Delivery,220.9,Approved,2025-08-28,2025-09-17,S00319,Bruce-Walters,In Transit,2,1,Missing,W006,Lake Jacqueline,2025-05-11,2025-05-13,P0057,47,396.57,2,20
+C00177,D00068,Incorrect Delivery,124.97,Pending,2025-04-14,2025-04-20,S00069,Wilson-Stark,In Transit,10,0,Pending,W010,Meganside,2025-04-15,2025-04-25,P0008,180,212.48,10,6
+C00178,D00287,Damage,183.07,Rejected,2025-06-22,2025-07-01,S00288,Bentley-Thomas,Lost,9,1,Signed,W007,Cherylfurt,2025-08-04,2025-08-13,P0095,158,318.13,9,9
+C00179,D00546,Incorrect Delivery,994.04,Pending,2025-04-27,2025-05-15,S00547,Oliver Ltd,Delivered,9,0,Pending,W010,Chavezmouth,2025-03-26,2025-04-04,P0049,140,338.27,9,18
+C00180,D00015,Damage,527.13,Rejected,2025-09-08,2025-09-21,S00016,Bautista-Underwood,In Transit,9,1,Signed,W004,Lindseychester,2025-08-04,2025-08-13,P0060,81,56.53,9,13
+C00181,D00492,Incorrect Delivery,992.47,Pending,2025-08-24,2025-08-31,S00493,"Taylor, Rose and Rush",Delivered,5,0,Missing,W006,Romeroville,2025-05-11,2025-05-16,P0054,118,358.59,5,7
+C00182,D00895,Damage,255.6,Rejected,2025-06-13,2025-06-25,S00896,Skinner PLC,In Transit,8,1,Missing,W008,Ramirezshire,2025-07-04,2025-07-12,P0083,190,403.09,8,12
+C00183,D00454,Damage,937.89,Approved,2025-06-17,2025-07-02,S00455,Garcia LLC,In Transit,6,1,Pending,W003,East Joseph,2025-07-02,2025-07-08,P0013,15,424.15,6,15
+C00184,D00138,Incorrect Delivery,813.28,Pending,2025-09-05,2025-09-19,S00139,Hendricks Inc,Lost,5,0,Missing,W008,Port Christopherport,2025-06-17,2025-06-22,P0038,179,274.05,5,14
+C00185,D00077,Delay,757.4,Pending,2025-09-05,2025-09-07,S00078,Howard-Robinson,In Transit,4,1,Signed,W007,East Victoria,2025-05-16,2025-05-20,P0072,128,369.61,4,2
+C00186,D00208,Lost Package,305.93,Approved,2025-07-26,2025-08-06,S00209,"Martinez, Taylor and Nichols",Delivered,6,0,Pending,W003,West Kathymouth,2025-05-24,2025-05-30,P0023,185,316.86,6,11
+C00187,D00233,Incorrect Delivery,411.15,Rejected,2025-04-22,2025-05-05,S00234,Gates Ltd,Lost,6,1,Signed,W005,New James,2025-07-31,2025-08-06,P0067,90,246.1,6,13
+C00188,D00887,Damage,515.08,Approved,2025-08-15,2025-08-21,S00888,Anderson-Sanders,In Transit,4,1,Signed,W010,Perezchester,2025-05-06,2025-05-10,P0070,121,221.7,4,6
+C00189,D00377,Lost Package,953.19,Pending,2025-04-19,2025-04-29,S00378,Graves-Baird,In Transit,3,1,Signed,W007,West Alex,2025-06-20,2025-06-23,P0035,25,193.25,3,10
+C00190,D00130,Damage,704.57,Rejected,2025-07-19,2025-07-27,S00131,Wagner-Moss,Lost,6,1,Signed,W005,North Dawnburgh,2025-06-17,2025-06-23,P0097,174,474.45,6,8
+C00191,D00515,Lost Package,890.78,Approved,2025-05-20,2025-05-29,S00516,Benjamin-Porter,Delayed,4,1,Pending,W004,Lake Kimberlyberg,2025-06-16,2025-06-20,P0036,170,291.98,4,9
+C00192,D00048,Damage,708.24,Approved,2025-06-19,2025-06-28,S00049,"Stevens, Harris and Ritter",Lost,6,1,Signed,W003,Port Patricia,2025-08-03,2025-08-09,P0022,76,152.05,6,9
+C00193,D00312,Lost Package,356.69,Approved,2025-07-22,2025-08-02,S00313,"Fowler, Wood and Waters",Delivered,3,1,Missing,W003,New Kellyville,2025-06-18,2025-06-21,P0026,122,486.34,3,11
+C00194,D00757,Delay,882.88,Pending,2025-05-18,2025-05-22,S00758,Knight-Sparks,In Transit,3,0,Pending,W009,West David,2025-07-23,2025-07-26,P0022,122,387.83,3,4
+C00195,D00143,Delay,238.75,Rejected,2025-05-10,2025-05-25,S00144,Ortiz Inc,In Transit,4,0,Pending,W005,North Matthew,2025-07-12,2025-07-16,P0063,120,110.52,4,15
+C00196,D00292,Incorrect Delivery,713.95,Rejected,2025-07-23,2025-07-26,S00293,Stewart Group,Delayed,9,0,Signed,W006,Port Michelle,2025-04-03,2025-04-12,P0090,121,59.36,9,3
+C00197,D00461,Incorrect Delivery,911.05,Approved,2025-06-25,2025-07-02,S00462,Stanley-Cantu,Delivered,5,1,Pending,W010,Butlerville,2025-08-07,2025-08-12,P0069,85,405.31,5,7
+C00198,D00248,Lost Package,680.56,Rejected,2025-08-27,2025-09-02,S00249,Mccann-White,Lost,7,1,Signed,W001,Harrisonmouth,2025-03-20,2025-03-27,P0006,177,330.06,7,6
+C00199,D00501,Delay,127.63,Rejected,2025-05-24,2025-06-11,S00502,"Lewis, Montgomery and Robinson",In Transit,3,1,Missing,W009,North Jessica,2025-06-20,2025-06-23,P0059,24,215.89,3,18
+C00200,D00388,Delay,837.68,Approved,2025-06-05,2025-06-17,S00389,Ward-Patrick,Delivered,6,1,Missing,W009,West Daniel,2025-06-07,2025-06-13,P0006,51,382.63,6,12
+C00201,D00731,Damage,689.55,Pending,2025-05-11,2025-05-14,S00732,"Allen, Edwards and Jones",In Transit,5,0,Signed,W007,East Craigfurt,2025-08-09,2025-08-14,P0061,190,402.22,5,3
+C00202,D00621,Incorrect Delivery,966.08,Pending,2025-06-21,2025-06-30,S00622,"Knapp, Miller and Reyes",Delivered,10,0,Pending,W007,Bradleymouth,2025-06-24,2025-07-04,P0056,69,150.6,10,9
+C00203,D00336,Delay,129.88,Rejected,2025-06-13,2025-06-21,S00337,Evans-Carter,Delayed,5,1,Pending,W006,West Michaelview,2025-04-16,2025-04-21,P0096,158,304.52,5,8
+C00204,D00332,Delay,340.09,Pending,2025-06-29,2025-07-10,S00333,Palmer Inc,Delivered,6,1,Pending,W004,New Laurenfort,2025-06-24,2025-06-30,P0093,118,494.13,6,11
+C00205,D00868,Delay,892.99,Pending,2025-05-21,2025-05-23,S00869,Clay Group,Delivered,4,1,Missing,W002,North Antonio,2025-07-17,2025-07-21,P0009,80,232.28,4,2
+C00206,D00878,Damage,563.23,Rejected,2025-07-26,2025-08-08,S00879,Miles-Dunn,Lost,2,1,Missing,W009,East Samanthafort,2025-05-21,2025-05-23,P0058,42,335.43,2,13
+C00207,D00451,Incorrect Delivery,554.64,Rejected,2025-08-30,2025-09-02,S00452,Dorsey Ltd,Delivered,7,0,Signed,W010,Traceyborough,2025-05-11,2025-05-18,P0006,17,139.61,7,3
+C00208,D00862,Incorrect Delivery,410.81,Pending,2025-05-28,2025-06-06,S00863,Taylor PLC,Delivered,7,0,Missing,W006,Donmouth,2025-07-05,2025-07-12,P0078,134,145.69,7,9
+C00209,D00260,Lost Package,925.11,Approved,2025-04-12,2025-04-21,S00261,Hill-Mcgee,In Transit,3,1,Signed,W007,Lake Martha,2025-03-15,2025-03-18,P0006,141,203.79,3,9
+C00210,D00268,Incorrect Delivery,148.14,Rejected,2025-04-17,2025-04-24,S00269,Sheppard Inc,Lost,6,1,Missing,W010,Port Brandi,2025-08-07,2025-08-13,P0046,75,313.51,6,7
+C00211,D00839,Lost Package,719.59,Approved,2025-04-13,2025-05-03,S00840,Zhang PLC,In Transit,6,0,Pending,W001,Troymouth,2025-04-23,2025-04-29,P0021,48,357.07,6,20
+C00212,D00634,Delay,505.3,Rejected,2025-09-03,2025-09-07,S00635,"Jones, Mcdaniel and Brooks",In Transit,7,0,Missing,W001,Rachelton,2025-03-11,2025-03-18,P0020,193,144.78,7,4
+C00213,D00015,Lost Package,316.83,Rejected,2025-07-21,2025-07-25,S00016,Bautista-Underwood,In Transit,9,1,Signed,W004,Lindseychester,2025-08-04,2025-08-13,P0060,81,56.53,9,4
+C00214,D00150,Incorrect Delivery,964.31,Rejected,2025-04-29,2025-05-08,S00151,Dorsey LLC,Lost,2,0,Missing,W010,Ellisshire,2025-06-16,2025-06-18,P0098,170,203.57,2,9
+C00215,D00895,Incorrect Delivery,823.51,Rejected,2025-07-16,2025-08-04,S00896,Skinner PLC,In Transit,8,1,Missing,W008,Ramirezshire,2025-07-04,2025-07-12,P0083,190,403.09,8,19
+C00216,D00435,Delay,896.32,Rejected,2025-06-26,2025-07-16,S00436,Ramsey and Sons,Lost,4,1,Signed,W008,Shortton,2025-07-08,2025-07-12,P0032,45,408.66,4,20
+C00217,D00062,Lost Package,993.89,Approved,2025-07-13,2025-07-29,S00063,"Martinez, Wood and Campos",In Transit,4,0,Pending,W001,North Linda,2025-07-05,2025-07-09,P0087,151,102.59,4,16
+C00218,D00592,Delay,853.76,Pending,2025-04-18,2025-04-27,S00593,"Graham, Mitchell and Keller",Delivered,4,1,Pending,W004,West Sarahland,2025-05-14,2025-05-18,P0026,25,387.46,4,9
+C00219,D00859,Incorrect Delivery,712.92,Approved,2025-05-10,2025-05-23,S00860,"Ruiz, Lowery and Baker",Lost,9,0,Missing,W006,Port Jacob,2025-06-27,2025-07-06,P0060,174,290.8,9,13
+C00220,D00238,Damage,829.2,Rejected,2025-06-03,2025-06-23,S00239,"Acosta, Campbell and Leblanc",Delayed,3,0,Pending,W007,Walkershire,2025-07-31,2025-08-03,P0064,20,248.68,3,20
+C00221,D00553,Incorrect Delivery,739.43,Pending,2025-06-07,2025-06-16,S00554,Lowery Group,Delivered,10,1,Signed,W001,South Kara,2025-05-19,2025-05-29,P0054,175,415.72,10,9
+C00222,D00135,Delay,848.48,Rejected,2025-04-14,2025-04-22,S00136,Ford-Chavez,Delayed,9,0,Pending,W002,Millerfort,2025-06-05,2025-06-14,P0087,16,487.43,9,8
+C00223,D00606,Incorrect Delivery,246.46,Pending,2025-05-24,2025-06-01,S00607,Johnson-Johnson,Delivered,9,0,Pending,W010,Lake Katherine,2025-06-22,2025-07-01,P0066,115,347.1,9,8
+C00224,D00581,Damage,235.85,Pending,2025-08-10,2025-08-28,S00582,"Cole, Montes and Davis",Delayed,8,0,Signed,W007,Lopezville,2025-08-09,2025-08-17,P0091,160,488.37,8,18
+C00225,D00511,Damage,452.71,Pending,2025-09-06,2025-09-25,S00512,Allen Inc,In Transit,7,1,Signed,W008,Scottview,2025-04-09,2025-04-16,P0090,192,406.56,7,19
+C00226,D00215,Delay,565.37,Rejected,2025-08-21,2025-08-23,S00216,Peterson PLC,Lost,3,1,Pending,W010,Medinaland,2025-05-09,2025-05-12,P0002,193,286.63,3,2
+C00227,D00728,Delay,251.0,Pending,2025-05-28,2025-05-30,S00729,Walsh-Mccarthy,Delivered,3,1,Pending,W008,New Glennland,2025-04-03,2025-04-06,P0098,119,161.49,3,2
+C00228,D00835,Damage,113.41,Pending,2025-04-16,2025-04-22,S00836,Johnson Ltd,Delayed,8,0,Missing,W005,Davischester,2025-07-13,2025-07-21,P0065,59,191.51,8,6
+C00229,D00910,Damage,114.65,Rejected,2025-06-01,2025-06-18,S00911,"Hamilton, Patterson and Daniel",Lost,6,1,Signed,W004,Taylorfurt,2025-06-13,2025-06-19,P0025,147,428.21,6,17
+C00230,D00395,Incorrect Delivery,490.57,Pending,2025-09-02,2025-09-04,S00396,"Cooper, Swanson and Mayo",In Transit,2,1,Signed,W003,Steventon,2025-05-14,2025-05-16,P0078,131,51.93,2,2
+C00231,D00931,Damage,557.13,Rejected,2025-05-04,2025-05-24,S00932,"Stewart, Tran and Perez",Lost,8,1,Signed,W008,New Matthewland,2025-06-28,2025-07-06,P0058,118,318.35,8,20
+C00232,D00687,Incorrect Delivery,743.38,Pending,2025-09-09,2025-09-10,S00688,"Barrera, Wood and Leach",Delayed,4,1,Pending,W001,North Sheenaborough,2025-07-05,2025-07-09,P0041,109,131.3,4,1
+C00233,D00560,Damage,836.05,Pending,2025-06-22,2025-07-04,S00561,Brown-Stokes,In Transit,9,0,Signed,W007,Ramseyport,2025-06-01,2025-06-10,P0040,52,374.75,9,12
+C00234,D00392,Damage,359.89,Rejected,2025-08-15,2025-08-23,S00393,"Martinez, Willis and Barr",In Transit,7,1,Missing,W006,Lake Samuel,2025-03-12,2025-03-19,P0082,76,490.84,7,8
+C00235,D00919,Lost Package,935.7,Rejected,2025-06-26,2025-07-04,S00920,"Hill, Adams and King",In Transit,2,1,Signed,W003,East Jimmy,2025-05-10,2025-05-12,P0016,97,497.18,2,8
+C00236,D00656,Damage,630.67,Pending,2025-05-05,2025-05-21,S00657,"King, Ortiz and Munoz",Delivered,4,0,Missing,W010,Robertport,2025-05-06,2025-05-10,P0050,133,499.98,4,16
+C00237,D00282,Incorrect Delivery,804.73,Rejected,2025-08-31,2025-09-05,S00283,Guzman and Sons,Lost,9,1,Signed,W005,Scotttown,2025-07-26,2025-08-04,P0019,131,239.85,9,5
+C00238,D00199,Lost Package,378.4,Rejected,2025-06-01,2025-06-12,S00200,"Glover, Moran and Johnson",Delivered,8,1,Missing,W006,Lucasland,2025-08-03,2025-08-11,P0005,80,439.9,8,11
+C00239,D00852,Damage,131.38,Pending,2025-04-26,2025-04-27,S00853,"Evans, Wilson and Hall",Delayed,6,1,Missing,W006,New Jamesburgh,2025-08-06,2025-08-12,P0052,114,435.65,6,1
+C00240,D00468,Incorrect Delivery,924.4,Pending,2025-04-24,2025-05-06,S00469,Saunders LLC,Delivered,9,1,Pending,W008,East Ryanfurt,2025-04-08,2025-04-17,P0035,158,230.43,9,12
+C00241,D00836,Lost Package,949.11,Rejected,2025-04-24,2025-05-13,S00837,Alexander LLC,Delayed,7,0,Signed,W007,Robertside,2025-06-08,2025-06-15,P0017,189,353.61,7,19
+C00242,D00388,Incorrect Delivery,850.68,Approved,2025-07-16,2025-07-17,S00389,Ward-Patrick,Delivered,6,1,Missing,W009,West Daniel,2025-06-07,2025-06-13,P0006,51,382.63,6,1
+C00243,D00924,Damage,492.32,Rejected,2025-08-28,2025-09-10,S00925,"Richard, Robinson and Brown",Delayed,3,0,Pending,W004,West Nicholasfurt,2025-05-12,2025-05-15,P0094,187,472.93,3,13
+C00244,D00432,Lost Package,182.82,Pending,2025-08-24,2025-09-06,S00433,Roth Ltd,Delayed,3,1,Signed,W002,West Jeffreyland,2025-03-13,2025-03-16,P0002,162,370.98,3,13
+C00245,D00938,Lost Package,369.18,Pending,2025-09-05,2025-09-08,S00939,Johnson PLC,Delivered,7,1,Pending,W004,Michaelton,2025-06-20,2025-06-27,P0048,47,400.78,7,3
+C00246,D00720,Delay,988.1,Pending,2025-08-30,2025-09-14,S00721,Wheeler PLC,In Transit,2,1,Missing,W005,Lake Donaldtown,2025-06-10,2025-06-12,P0018,111,239.48,2,15
+C00247,D00554,Lost Package,190.51,Rejected,2025-06-29,2025-07-18,S00555,Gonzalez-Murphy,Lost,5,1,Signed,W001,North Kaylamouth,2025-05-21,2025-05-26,P0094,94,204.23,5,19
+C00248,D00275,Incorrect Delivery,137.76,Rejected,2025-04-13,2025-04-14,S00276,"Jackson, Rowland and Barrett",In Transit,9,1,Signed,W008,North Timothyberg,2025-07-06,2025-07-15,P0089,113,440.95,9,1
+C00249,D00376,Delay,486.91,Rejected,2025-04-12,2025-04-19,S00377,James PLC,Delivered,5,0,Signed,W004,Parkerchester,2025-04-30,2025-05-05,P0064,140,388.58,5,7
+C00250,D00301,Delay,440.13,Rejected,2025-09-01,2025-09-20,S00302,Thompson Ltd,Delivered,7,0,Signed,W001,Port Diane,2025-06-19,2025-06-26,P0034,101,354.62,7,19
+C00251,D00578,Incorrect Delivery,243.38,Rejected,2025-07-24,2025-08-08,S00579,Lin-Wilson,Delayed,2,1,Pending,W006,Laurenstad,2025-03-23,2025-03-25,P0090,180,340.4,2,15
+C00252,D00803,Damage,575.16,Rejected,2025-08-05,2025-08-19,S00804,Skinner PLC,Delayed,8,1,Signed,W008,Georgeview,2025-04-24,2025-05-02,P0078,172,200.06,8,14
+C00253,D00571,Damage,525.23,Rejected,2025-05-09,2025-05-25,S00572,Sheppard Group,In Transit,7,0,Missing,W009,North Ginamouth,2025-05-26,2025-06-02,P0063,113,466.56,7,16
+C00254,D00800,Damage,427.68,Approved,2025-04-28,2025-05-17,S00801,Garcia Inc,Delivered,3,0,Missing,W008,Robertmouth,2025-07-16,2025-07-19,P0015,157,242.35,3,19
+C00255,D00439,Delay,426.72,Pending,2025-08-30,2025-09-18,S00440,Thomas-Burton,Lost,2,1,Pending,W006,New Colleen,2025-04-14,2025-04-16,P0067,160,345.95,2,19
+C00256,D00465,Incorrect Delivery,121.04,Rejected,2025-08-02,2025-08-10,S00466,Briggs-Wilson,Delivered,8,1,Missing,W009,West Wayne,2025-04-22,2025-04-30,P0097,175,388.01,8,8
+C00257,D00129,Damage,948.94,Pending,2025-06-24,2025-07-08,S00130,Gray-Ruiz,Lost,3,0,Pending,W007,Elizabethfurt,2025-04-08,2025-04-11,P0030,118,376.34,3,14
+C00258,D00902,Lost Package,509.1,Rejected,2025-05-17,2025-06-03,S00903,Brown PLC,Delivered,4,0,Pending,W007,Ericville,2025-08-05,2025-08-09,P0052,91,282.77,4,17
+C00259,D00591,Delay,442.13,Approved,2025-08-05,2025-08-08,S00592,Tran and Sons,Delivered,10,1,Missing,W003,Reeveshaven,2025-04-02,2025-04-12,P0015,125,305.19,10,3
+C00260,D00566,Damage,784.95,Rejected,2025-06-09,2025-06-21,S00567,Savage-Warren,Delayed,3,0,Signed,W007,Port Christina,2025-05-30,2025-06-02,P0098,86,317.83,3,12
+C00261,D00956,Delay,946.67,Approved,2025-09-09,2025-09-21,S00957,"Rosario, Ortiz and Miller",Lost,8,0,Signed,W006,Port Lindsaymouth,2025-07-02,2025-07-10,P0029,53,89.61,8,12
+C00262,D00343,Lost Package,974.36,Pending,2025-06-11,2025-06-26,S00344,Morales Inc,Delivered,8,0,Missing,W009,New Ryan,2025-05-23,2025-05-31,P0076,153,283.53,8,15
+C00263,D00498,Incorrect Delivery,361.71,Pending,2025-07-01,2025-07-06,S00499,Ellison-Shaw,Lost,10,0,Signed,W002,Joelhaven,2025-05-03,2025-05-13,P0023,18,421.91,10,5
+C00264,D00499,Lost Package,446.59,Pending,2025-07-18,2025-07-21,S00500,"Perez, Huynh and Nelson",Delivered,9,1,Pending,W010,Lake Jonathanfurt,2025-03-16,2025-03-25,P0004,57,139.55,9,3
+C00265,D00098,Delay,352.3,Rejected,2025-09-01,2025-09-20,S00099,Marquez PLC,Delivered,10,1,Missing,W009,North Hannahchester,2025-06-05,2025-06-15,P0069,192,298.0,10,19
+C00266,D00412,Delay,492.17,Pending,2025-04-14,2025-04-20,S00413,Ferguson LLC,Delayed,7,0,Missing,W001,Deannaside,2025-03-31,2025-04-07,P0056,114,173.32,7,6
+C00267,D00144,Incorrect Delivery,400.84,Rejected,2025-06-07,2025-06-10,S00145,Cruz PLC,Delayed,9,1,Signed,W007,Amystad,2025-07-25,2025-08-03,P0098,38,305.98,9,3
+C00268,D00460,Damage,830.05,Approved,2025-06-02,2025-06-14,S00461,"Roth, Bailey and Garcia",Delivered,8,1,Signed,W010,Port Brianmouth,2025-05-17,2025-05-25,P0082,72,464.46,8,12
+C00269,D00272,Delay,194.71,Rejected,2025-07-08,2025-07-20,S00273,Delgado Inc,In Transit,6,1,Signed,W008,East Alexandrahaven,2025-07-21,2025-07-27,P0044,57,144.98,6,12
+C00270,D00697,Lost Package,435.56,Pending,2025-05-19,2025-05-30,S00698,Lane Ltd,Delayed,2,0,Signed,W003,New Philip,2025-07-14,2025-07-16,P0011,200,178.63,2,11
+C00271,D00445,Delay,102.6,Rejected,2025-04-29,2025-05-04,S00446,"Adams, Stephens and Smith",Delivered,3,1,Pending,W003,Meganchester,2025-08-06,2025-08-09,P0059,20,273.17,3,5
+C00272,D00129,Lost Package,547.25,Pending,2025-05-31,2025-06-19,S00130,Gray-Ruiz,Lost,3,0,Pending,W007,Elizabethfurt,2025-04-08,2025-04-11,P0030,118,376.34,3,19
+C00273,D00018,Damage,157.03,Approved,2025-08-15,2025-08-23,S00019,Cummings and Sons,Lost,2,0,Missing,W001,South Kent,2025-05-26,2025-05-28,P0061,197,395.87,2,8
+C00274,D00947,Lost Package,469.01,Pending,2025-07-30,2025-08-14,S00948,"Hernandez, Farmer and Banks",Lost,5,0,Missing,W007,East Erikberg,2025-03-16,2025-03-21,P0074,15,178.27,5,15
+C00275,D00175,Delay,844.55,Approved,2025-07-10,2025-07-26,S00176,Woods Ltd,Lost,6,0,Missing,W007,North Juliaborough,2025-07-09,2025-07-15,P0037,175,122.26,6,16
+C00276,D00181,Delay,927.59,Rejected,2025-06-22,2025-07-03,S00182,Munoz-Rogers,Lost,2,1,Signed,W008,New Meghan,2025-03-12,2025-03-14,P0008,31,191.26,2,11
+C00277,D00908,Lost Package,104.55,Pending,2025-06-05,2025-06-21,S00909,Livingston-Solomon,Delayed,8,1,Pending,W002,Johnsonburgh,2025-06-27,2025-07-05,P0004,200,380.38,8,16
+C00278,D00532,Delay,244.83,Approved,2025-07-02,2025-07-17,S00533,"Gamble, Davis and Smith",In Transit,7,0,Missing,W004,Port Brenda,2025-07-24,2025-07-31,P0031,61,91.12,7,15
+C00279,D00246,Damage,222.62,Approved,2025-04-28,2025-05-01,S00247,Clements-Simmons,Delivered,7,0,Signed,W002,Miketon,2025-07-18,2025-07-25,P0020,17,86.48,7,3
+C00280,D00398,Lost Package,105.62,Pending,2025-05-23,2025-05-25,S00399,"Dawson, Snow and Malone",Lost,10,1,Missing,W002,Whiteview,2025-05-24,2025-06-03,P0004,181,250.33,10,2
+C00281,D00805,Lost Package,948.67,Rejected,2025-06-27,2025-06-29,S00806,"Williamson, Reynolds and Fields",In Transit,9,1,Signed,W009,East Michaelmouth,2025-04-12,2025-04-21,P0069,147,419.63,9,2
+C00282,D00093,Damage,616.92,Pending,2025-07-27,2025-08-16,S00094,Smith Ltd,In Transit,6,1,Pending,W005,Smithbury,2025-07-30,2025-08-05,P0088,188,359.76,6,20
+C00283,D00182,Incorrect Delivery,897.32,Pending,2025-06-03,2025-06-06,S00183,"Wu, Key and Montoya",Lost,3,1,Missing,W005,Stevenberg,2025-03-18,2025-03-21,P0053,103,352.25,3,3
+C00284,D00322,Delay,484.66,Rejected,2025-07-12,2025-07-14,S00323,Hayden Group,In Transit,6,1,Pending,W009,South Lee,2025-04-22,2025-04-28,P0054,112,448.6,6,2
+C00285,D00761,Lost Package,304.67,Approved,2025-06-04,2025-06-06,S00762,"Martin, Tucker and Brown",Delivered,6,1,Pending,W009,North Robert,2025-06-20,2025-06-26,P0039,66,183.36,6,2
+C00286,D00840,Delay,279.65,Pending,2025-08-24,2025-09-08,S00841,"Gonzalez, King and Kim",Lost,3,0,Missing,W002,Port Aaronview,2025-05-08,2025-05-11,P0092,69,447.98,3,15
+C00287,D00072,Incorrect Delivery,634.28,Rejected,2025-07-22,2025-07-23,S00073,Ruiz LLC,Delayed,9,0,Signed,W007,East Michaelport,2025-05-31,2025-06-09,P0037,51,412.55,9,1
+C00288,D00004,Incorrect Delivery,330.78,Rejected,2025-07-17,2025-07-20,S00005,Alexander LLC,Lost,5,0,Signed,W006,Donnaport,2025-04-26,2025-05-01,P0100,38,196.76,5,3
+C00289,D00898,Lost Package,605.6,Approved,2025-05-27,2025-06-06,S00899,Johnson and Sons,Delivered,8,0,Signed,W001,Dylanmouth,2025-03-31,2025-04-08,P0005,13,61.81,8,10
+C00290,D00232,Delay,817.7,Rejected,2025-06-23,2025-07-08,S00233,"Michael, Walker and Fitzgerald",Delivered,7,1,Pending,W005,East Debbieland,2025-05-04,2025-05-11,P0056,82,456.26,7,15
+C00291,D00423,Delay,878.68,Approved,2025-04-13,2025-04-25,S00424,"Rodriguez, Reese and Reyes",Delivered,3,1,Signed,W010,North Christine,2025-05-20,2025-05-23,P0011,25,462.52,3,12
+C00292,D00134,Lost Package,351.13,Approved,2025-07-15,2025-07-19,S00135,"Medina, Tran and Thompson",Delivered,2,0,Signed,W003,North Stephen,2025-06-30,2025-07-02,P0013,198,73.78,2,4
+C00293,D00423,Damage,963.4,Rejected,2025-08-29,2025-09-15,S00424,"Rodriguez, Reese and Reyes",Delivered,3,1,Signed,W010,North Christine,2025-05-20,2025-05-23,P0011,25,462.52,3,17
+C00294,D00947,Delay,979.66,Pending,2025-06-25,2025-07-05,S00948,"Hernandez, Farmer and Banks",Lost,5,0,Missing,W007,East Erikberg,2025-03-16,2025-03-21,P0074,15,178.27,5,10
+C00295,D00830,Damage,291.9,Rejected,2025-06-21,2025-06-24,S00831,Porter Ltd,Delivered,3,1,Pending,W009,East Jessicamouth,2025-08-01,2025-08-04,P0009,64,318.7,3,3
+C00296,D00036,Lost Package,399.06,Pending,2025-09-05,2025-09-17,S00037,Garcia PLC,Delayed,2,1,Missing,W005,West Terri,2025-06-05,2025-06-07,P0009,105,205.35,2,12
+C00297,D00793,Incorrect Delivery,299.6,Pending,2025-07-25,2025-07-28,S00794,"Richards, Dixon and Love",Delayed,7,0,Signed,W005,Millerfurt,2025-04-14,2025-04-21,P0010,167,200.18,7,3
+C00298,D00479,Lost Package,292.0,Rejected,2025-08-26,2025-09-07,S00480,Brown LLC,In Transit,2,0,Pending,W006,Hansonmouth,2025-03-19,2025-03-21,P0070,61,200.19,2,12
+C00299,D00448,Lost Package,571.62,Pending,2025-05-01,2025-05-12,S00449,Smith and Sons,Lost,8,1,Signed,W006,Michaelmouth,2025-06-05,2025-06-13,P0027,112,132.91,8,11
+C00300,D00892,Delay,478.61,Pending,2025-07-06,2025-07-19,S00893,"Sanchez, Orozco and Flores",In Transit,2,0,Missing,W010,Lake Saraburgh,2025-03-23,2025-03-25,P0086,84,433.27,2,13
